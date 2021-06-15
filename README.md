@@ -1,4 +1,4 @@
-# MATH 6330 Linear Algebra
+# MATH 6330 Linear Algebra Fall 2021
 
 [Instructor website](https://webapps.utrgv.edu/aa/dm/index.cfm?action=profile&user=zhaosheng.feng)
 
